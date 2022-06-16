@@ -1,0 +1,8 @@
+# FTX API configuration(s)
+ftx:
+  api: '...' # add here
+  secret: '...'
+
+# logging info
+logging_level: 'DEBUG'
+

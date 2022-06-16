@@ -1,0 +1,17 @@
+# websockets
+websocket
+websocket-client
+websockets
+
+# notebooking
+jupyter
+
+# data wrangling
+pyyaml
+pandas 
+numpy 
+
+# data visualization
+matplotlib
+plotly
+seaborn
